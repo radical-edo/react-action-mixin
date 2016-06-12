@@ -1,6 +1,6 @@
 {
   "name": "react-action-mixin",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "React mixin for passing event handlers",
   "main": "index.js",
   "scripts": {
