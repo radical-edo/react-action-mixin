@@ -13,12 +13,16 @@
   "keywords": [
     "react",
     "mixins",
-    "handlers"
+    "handlers",
+    "es6"
   ],
   "author": "radical-edo",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/radical-edo/react-action-mixin/issues"
   },
-  "homepage": "https://github.com/radical-edo/react-action-mixin#readme"
+  "homepage": "https://github.com/radical-edo/react-action-mixin#readme",
+  "dependencies": {
+    "lodash": "^4.13.1"
+  }
 }
