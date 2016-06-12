@@ -1,5 +1,5 @@
 'use strict';
-import { chain, throttle } from 'lodash';
+const { chain, throttle } = require('lodash');
 
 const getActionName = function getActionName(name) {
   return chain(name).camelCase().upperFirst().value();
@@ -19,4 +19,4 @@ const ActionMixin = {
   }
 };
 
-export default ActionMixin;
+module.exports = ActionMixin;
