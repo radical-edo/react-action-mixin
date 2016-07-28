@@ -1,8 +1,8 @@
 {
   "name": "react-action-mixin",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "React mixin for passing event handlers",
-  "main": "index.js",
+  "main": "dist/index.js",
   "scripts": {
     "build": "babel index.js --presets babel-preset-es2015 --out-dir dist/",
     "test": "echo \"Error: no test specified\" && exit 1"
